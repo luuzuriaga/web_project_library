@@ -29,7 +29,7 @@ Para ver el proyecto en tu navegador local:
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd biblioteca-triple-peaks
+    cd web_project_library-main
     ```
 3. Abre el archivo `index.html` en tu navegador preferido.
 
