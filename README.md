@@ -12,21 +12,6 @@ La Biblioteca Triple Peaks es un lugar acogedor para estudiar, trabajar y amplia
 - Cómo convertirse en miembro de la biblioteca.
 - Información de contacto.
 
-## Estructura del Proyecto
-
-El proyecto está organizado de la siguiente manera:
-
-│
-├── index.html           # Página principal de la biblioteca
-├── styles/
-│   ├── normalize.css    # CSS para normalizar estilos
-│   └── style.css        # Estilos personalizados para la página
-├── images/
-│   ├── logo.svg         # Logotipo de la biblioteca
-│   └── inside_the_library.png  # Imagen de la biblioteca
-├── vendor/
-│   └── normalize.css    # Archivo de normalización de CSS
-└── README.md            # Archivo README con información del proyecto
 
 ## Tecnologías Utilizadas
 
@@ -40,7 +25,7 @@ Para ver el proyecto en tu navegador local:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/luuzuriaga/sprint2GH
+    git clone https://github.com/luuzuriaga/web_project_library
     ```
 2. Navega al directorio del proyecto:
     ```bash
